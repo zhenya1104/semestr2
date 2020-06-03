@@ -3,4 +3,4 @@ div {border: solid 3px #f00;padding:5px;margin:5px;color: #964b00;}
 #b2{background-color: #ff0 ;martin:10px; width:20%;float:left;}
 #b3{background-color: #00f ;martin:10px; width:50%;float:left;}
 #b4{background-color: #ff0 ;martin:10px; width:20%;float:left;}
-#b5{}
+#b5{clear:both;}
