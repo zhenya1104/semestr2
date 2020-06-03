@@ -1,6 +1,6 @@
 div {border: solid 3px #f00;padding:5px;margin:5px;color: brown;}
 #b1{height:1200px; martin:10px;martin-bottom:20px}
-#b2{}
-#b3{}
-#b4{}
+#b2{background-color: yellow ;martin:10px; width:20%;float:left;}
+#b3{background-color: blue ;martin:10px; width:50%;float:left;}
+#b4{background-color: yellow ;martin:10px; width:20%;float:left;}
 #b5{}
